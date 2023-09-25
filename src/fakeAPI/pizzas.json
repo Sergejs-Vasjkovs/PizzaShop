@@ -1,0 +1,112 @@
+[
+  {
+    "id": "0",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/f035c7f46c0844069722f2bb3ee9f113_584x584.jpeg",
+    "title": "Pepperoni Fresh with pepper",
+    "description": "Amet amet commodo nisi commodo nostrud dolor. Velit magna irure id incididunt amet ad deserunt mollit. Pariatur enim anim ad aute sunt incididunt exercitation do. Ad minim ullamco id elit aliqua sit adipisicing minim. Non in amet dolor sunt. Et sint pariatur culpa aliquip commodo adipisicing fugiat cupidatat exercitation commodo exercitation culpa nulla velit.",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 803,
+    "category": "Vegetarian",
+    "rating": 4
+  },
+  {
+    "id": "1",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/2ffc31bb-132c-4c99-b894-53f7107a1441.jpg",
+    "title": "Cheese",
+    "description": "Aliquip mollit deserunt voluptate consequat ipsum. Veniam excepteur tempor sunt sunt velit incididunt ut anim sit. Ut do laboris esse aliqua adipisicing. Ad enim id ad Lorem dolore ad. Excepteur adipisicing anim ea laborum laborum esse duis labore.",
+    "types": [0],
+    "sizes": [26, 40],
+    "price": 245,
+    "category": "Vegetarian",
+    "rating": 6
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/6652fec1-04df-49d8-8744-232f1032c44b.jpg",
+    "title": "Barbecue chicken",
+    "description": "Et voluptate aliquip aliqua excepteur ad voluptate culpa aliqua. Nostrud aute Lorem pariatur incididunt velit ullamco consectetur. Qui enim enim voluptate aliquip Lorem officia Lorem sunt eu duis.",
+    "types": [0],
+    "sizes": [26, 40],
+    "price": 295,
+    "category": "Meat",
+    "rating": 4
+  },
+  {
+    "id": "3",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/af553bf5-3887-4501-b88e-8f0f55229429.jpg",
+    "title": "Sweet and sour chicken",
+    "description": "Aliqua sunt elit est aliqua. Ea voluptate in occaecat eu proident cupidatat veniam et et anim reprehenderit. Incididunt irure elit reprehenderit commodo labore sint pariatur aute. Ullamco sint officia anim non eiusmod in nisi occaecat aliqua minim eiusmod non sunt magna. Dolor ipsum ipsum occaecat exercitation culpa veniam officia in excepteur do elit Lorem.",
+    "types": [1],
+    "sizes": [26, 30, 40],
+    "price": 275,
+    "category": "Spicy",
+    "rating": 2
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+    "title": "Cheeseburger pizza",
+    "description": "Magna mollit ipsum cillum veniam labore dolore duis proident sunt enim consectetur. Non exercitation id occaecat voluptate quis nisi duis esse excepteur do magna labore in. Aute veniam qui minim cillum commodo minim fugiat magna ex laboris elit proident quis nulla. Laboris enim aliquip ullamco aliqua nisi cillum. Deserunt cillum quis officia esse esse.",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 415,
+    "category": "Closed",
+    "rating": 8
+  },
+  {
+    "id": "5",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/1e1a6e80-b3ba-4a44-b6b9-beae5b1fbf27.jpg",
+    "title": "Crazy pepperoni",
+    "description": "Aliquip esse sint mollit nostrud id nostrud eiusmod in. Lorem laboris nisi eiusmod consectetur. Excepteur enim eu nisi occaecat elit ea culpa nostrud dolor ex cillum qui nisi magna. Deserunt esse consequat officia quis dolore ipsum proident esse consectetur ad officia ea amet. Est labore voluptate ex incididunt fugiat reprehenderit excepteur sunt eu.",
+    "types": [0],
+    "sizes": [30, 40],
+    "price": 580,
+    "category": "Spicy",
+    "rating": 2
+  },
+  {
+    "id": "6",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d2e337e9-e07a-4199-9cc1-501cc44cb8f8.jpg",
+    "title": "Pepperoni",
+    "description": "Ex sint eu nostrud et aute nulla tempor. Non fugiat qui nisi non laboris culpa ad qui esse in. Incididunt deserunt id non cupidatat officia aute id adipisicing id esse laboris et esse. Pariatur dolore esse tempor exercitation enim deserunt exercitation nostrud esse. Consequat culpa reprehenderit dolore sunt nisi laboris minim qui nulla laborum duis anim exercitation. Amet enim sint sit ut culpa excepteur anim incididunt in cupidatat laborum non. Laboris eiusmod commodo in esse sunt id exercitation ex adipisicing.",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 675,
+    "category": "Meat",
+    "rating": 9
+  },
+  {
+    "id": "7",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d48003cd-902c-420d-9f28-92d9dc5f73b4.jpg",
+    "title": "Margarita",
+    "description": "Esse velit nulla Lorem minim ullamco laboris quis laboris esse culpa. Enim aliquip do eiusmod nulla eiusmod consequat commodo incididunt officia aute laborum amet consequat. Deserunt proident consectetur voluptate do sit do in velit consequat.",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 450,
+    "category": "Grill",
+    "rating": 10
+  },
+  {
+    "id": "8",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/ec29465e-606b-4a04-a03e-da3940d37e0e.jpg",
+    "title": "Four seasons",
+    "description": "Cupidatat nisi tempor proident occaecat irure exercitation eiusmod Lorem aliquip ea laboris elit est adipisicing. Elit in cupidatat do nisi ipsum sunt cupidatat. Lorem sint voluptate aliquip sit. Cupidatat laboris velit id exercitation adipisicing laborum.",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 395,
+    "category": "Grill",
+    "rating": 10
+  },
+  {
+    "id": "9",
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/30367198-f3bd-44ed-9314-6f717960da07.jpg",
+    "title": "Vegetables and mushrooms",
+    "description": "Dolore consequat irure consectetur ex magna eu. Est consequat mollit est amet in. Laborum in esse incididunt elit aute minim esse esse officia nisi consequat et anim. Mollit in mollit dolor qui irure esse enim. Cupidatat eu officia do elit. Sit ea occaecat ad ad proident cillum nostrud quis tempor minim.",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 285,
+    "category": "Vegetarian",
+    "rating": 7
+  }
+]

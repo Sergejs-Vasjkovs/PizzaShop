@@ -1,0 +1,33 @@
+.wrapper {
+    display: flex;
+    margin-right: auto;
+    position: relative;
+}
+
+.root {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 8px 15px;
+    width: 300px;
+    border-radius: 20px;
+    font-size: 16px;
+
+    &:focus {
+        border: 1px solid rgba(0, 0, 0, 0.3);
+    }
+}
+
+.icon {
+    opacity: 0.3;
+}
+
+.close {
+    position: absolute;
+    right: 10px;
+    top: 9px;
+    opacity: 0.3;
+    cursor: pointer;
+
+    &:hover {
+        opacity: 0.5;
+    }
+}
